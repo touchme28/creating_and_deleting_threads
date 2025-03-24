@@ -1,2 +1,2 @@
-# creating_and_deleting_threds
+# creating_and_deleting_threads
 Многопоточная программа с системными вызовами, обеспечивающими создание и завершение потоков.
